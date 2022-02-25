@@ -13,6 +13,8 @@ link: https://www.youtube.com/googlecode
 link: https://www.youtube.com/c/HelloCodepur
 
 ## 4: Robert Brunhage
+### Robert Brunhage is a Google Developer Expert, and a passionate teacher. He teaches complicated Flutter topics in easy way.
+
 link: https://www.youtube.com/c/RobertBrunhage
 
 ## 5: The Flutter Way
@@ -22,3 +24,8 @@ link: https://www.youtube.com/c/TheFlutterWay
 ## 6: Marcus Ng
 ### This channel is a beginner's heaven for learning Flutter.
 link: https://www.youtube.com/c/MarcusNg
+
+## 7: Flutter Europe
+### Want to learn some complicated concepts in detailed way? Flutter Europe has the content i.e keynotes & event videos that are information rich.
+
+link: https://www.youtube.com/channel/UCOoJkGYV00nr3EpZOUeuN1Q
