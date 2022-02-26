@@ -11,3 +11,10 @@ link: https://www.youtube.com/c/flutterdev
 ```
 
 ![](https://user-images.githubusercontent.com/60597290/154986722-87cf28ba-7ebf-40a4-9acc-5f4245dfb1a9.png)
+
+## CONTRIBUTORS
+Amazing people who made their contributions. Feel free to contribute, and get yourself featured here!
+
+<a href="https://github.com/rashidwassan/learning-resources/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=rashidwassan/learning-resources" />
+</a>
