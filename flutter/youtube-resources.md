@@ -29,3 +29,7 @@ link: https://www.youtube.com/c/MarcusNg
 ### Want to learn some complicated concepts in detailed way? Flutter Europe has the content i.e keynotes & event videos that are information rich.
 
 link: https://www.youtube.com/channel/UCOoJkGYV00nr3EpZOUeuN1Q
+
+## 8: Flutterly
+### Pobably the most underrated YouTube channel for learning Flutter. Learn Flutter with beautiful animations and simple terminology.
+link: https://www.youtube.com/c/Flutterly
