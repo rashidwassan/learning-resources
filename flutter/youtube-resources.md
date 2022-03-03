@@ -35,3 +35,7 @@ link: https://www.youtube.com/c/Flutterly
 ## 9: Reso Coder
 ### Very ifnormative channel for slow learners.
 link: https://www.youtube.com/c/ResoCoder
+
+## 10: Filled Stacks
+### Learn to build high quality production ready mobile apps using Flutter.
+link: https://www.youtube.com/c/FilledStacks
