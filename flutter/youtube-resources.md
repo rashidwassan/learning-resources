@@ -31,3 +31,7 @@ link: https://www.youtube.com/channel/UCOoJkGYV00nr3EpZOUeuN1Q
 ## 8: Flutterly
 ### Pobably the most underrated YouTube channel for learning Flutter. Learn Flutter with beautiful animations and simple terminology.
 link: https://www.youtube.com/c/Flutterly
+
+## 9: Reso Coder
+### Very ifnormative channel for slow learners.
+link: https://www.youtube.com/c/ResoCoder
