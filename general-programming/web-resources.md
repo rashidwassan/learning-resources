@@ -15,3 +15,7 @@ link: https://www.freecodecamp.org/
 ## 4: Medium
 ### It is a general website that contains a lot of programming related stuff
 link: https://medium.com/
+
+## 5: Dev Community
+### A community of developers, featuring huge number of articles on various programming topics.
+link: https://dev.to/
