@@ -39,3 +39,8 @@ link: https://www.youtube.com/c/ResoCoder
 ## 10: Filled Stacks
 ### Learn to build high quality production ready mobile apps using Flutter.
 link: https://www.youtube.com/c/FilledStacks
+
+
+## 10: Code With Harry (for native android development)
+### Learn to build high quality production ready mobile apps using Flutter.
+link: https://youtu.be/InigFUSiPl8
