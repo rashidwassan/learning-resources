@@ -35,3 +35,15 @@ link: https://www.youtube.com/c/CodeWithHarry
 ### This channel teaches you, how to write good code. It's Design Pattern series is very helpful.
 
 link: https://www.youtube.com/c/ArjanCodes/
+
+## 7: Luv
+
+### This channel is a perfect place for you if you're looking to head towards competitive programming.
+
+link: https://www.youtube.com/c/LuvIsMe
+
+## 8: Telusko
+
+### This channel contains tutorials such as Java, Kotlin, Javascript, Python, Blockchain
+
+link: https://www.youtube.com/c/Telusko/featured
