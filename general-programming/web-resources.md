@@ -23,3 +23,7 @@ link: https://dev.to/
 ## 5: JavaTpoint
 ### This website contains tutorials on almost all the languages and trending technologies
 link: https://www.javatpoint.com/
+
+## 6: hackr.io
+### hackr.io contains many free and paid courses on different programming languages & technologies, in video and books
+link: https://hackr.io/
