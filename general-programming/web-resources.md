@@ -19,3 +19,7 @@ link: https://medium.com/
 ## 5: Dev Community
 ### A community of developers, featuring huge number of articles on various programming topics.
 link: https://dev.to/
+
+## 5: JavaTpoint
+### This website contains tutorials on almost all the languages and trending technologies
+link: https://www.javatpoint.com/
