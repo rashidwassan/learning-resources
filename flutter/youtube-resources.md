@@ -47,5 +47,4 @@ link: https://youtu.be/InigFUSiPl8
 
 ## 12: Angela Yu ( By London App Brewery).
 ### Highly Rated  Flutter Paid Course Ever on Udemy ( Free Clone Here )
- 
- link: https://hidevs.net/course/the-complete-flutter-development-bootcamp-with-dart
+link: https://hidevs.net/course/the-complete-flutter-development-bootcamp-with-dart
