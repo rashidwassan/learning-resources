@@ -40,7 +40,7 @@ link: https://www.youtube.com/c/ArjanCodes/
 
 ### This channel is a perfect place for you if you're looking to head towards competitive programming.
 
-link: https://www.youtube.com/c/LuvIsMe/playlists
+link: https://www.youtube.com/c/LuvIsMe
 
 ## 8: Telusko
 
