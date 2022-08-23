@@ -60,3 +60,7 @@ link: https://www.youtube.com/c/FlutterMapp/videos
 ### Best Course in Youtube it covers all the topics including state management
 Link: https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT
 
+## 16: Johannes Milke (YouTuber) 
+### Covers almost all the widgets of the flutter. 800+ videos to learn flutter from beginner to advance.
+Link: https://www.youtube.com/c/JohannesMilke
+
