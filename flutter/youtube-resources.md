@@ -40,11 +40,14 @@ link: https://www.youtube.com/c/ResoCoder
 ### Learn to build high quality production ready mobile apps using Flutter.
 link: https://www.youtube.com/c/FilledStacks
 
+## 11: Mitch Koko
+### Learn the way to implement the number of Widgets.
+link :https://www.youtube.com/c/MitchKoko
 
-## 11: Code With Harry (for native android development)
+## 12: Code With Harry (for native android development)
 ### Learn to build high quality production ready mobile apps using Flutter.
 link: https://youtu.be/InigFUSiPl8
 
-## 12: Angela Yu ( By London App Brewery).
+## 13: Angela Yu ( By London App Brewery).
 ### Highly Rated  Flutter Paid Course Ever on Udemy ( Free Clone Here )
 link: https://hidevs.net/course/the-complete-flutter-development-bootcamp-with-dart
