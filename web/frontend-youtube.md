@@ -18,6 +18,12 @@ This is the best channel to improve your design skills and to know `CSS` concept
 
 Link: [https://www.youtube.com/kevinpowell](https://www.youtube.com/kepowob)
 
+### 4. CodeWithHarry
+
+In this video, you'll learn how to create beautiful websites using Html. HTML is the language used for website design. This course on html will teach you everything you need to learn about html tags, lists, tables, seo etc.
+
+Link: [https://youtu.be/BsDoLVMnmZs) 
+
 
 ## JavaScript
 

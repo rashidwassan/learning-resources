@@ -46,4 +46,9 @@ link: https://www.youtube.com/c/LuvIsMe
 
 ### This channel contains tutorials such as Java, Kotlin, Javascript, Python, Blockchain
 
-link: https://www.youtube.com/c/Telusko/featured
+link: https://www.youtube.com/c/Telusko/featured 
+## 9: Nishant Chahar
+
+### Nishant's channel has a popular diaries series in which different peoples share their placement and interview experiences in FAANG.
+
+link: https://www.youtube.com/c/NishantChahar11

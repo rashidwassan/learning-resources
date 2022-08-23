@@ -40,15 +40,23 @@ link: https://www.youtube.com/c/ResoCoder
 ### Learn to build high quality production ready mobile apps using Flutter.
 link: https://www.youtube.com/c/FilledStacks
 
+## 11: Mitch Koko
+### Learn the way to implement the number of Widgets.
+link :https://www.youtube.com/c/MitchKoko
 
-## 11: Code With Harry (for native android development)
+## 12: Code With Harry (for native android development)
 ### Learn to build high quality production ready mobile apps using Flutter.
 link: https://youtu.be/InigFUSiPl8
 
-## 12: Angela Yu ( By London App Brewery).
+## 13: Angela Yu ( By London App Brewery).
 ### Highly Rated  Flutter Paid Course Ever on Udemy ( Free Clone Here )
 link: https://hidevs.net/course/the-complete-flutter-development-bootcamp-with-dart
 
 ## 13: Flutter Mapp
 ### One of the Youtube channels which I find useful during my Flutter journey. They got amazing projects and great videos related to widgets, etc.
 link: https://www.youtube.com/c/FlutterMapp/videos
+
+## 13: Free Flutter Course + Firebase ( Vandad Nahavandipoor).
+### Best Course in Youtube it covers all the topics including state management
+Link: https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT
+
