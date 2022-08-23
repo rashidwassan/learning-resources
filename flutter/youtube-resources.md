@@ -50,7 +50,7 @@ link: https://youtu.be/InigFUSiPl8
 
 ## 13: Angela Yu ( By London App Brewery).
 ### Highly Rated  Flutter Paid Course Ever on Udemy ( Free Clone Here )
-link: https://hidevs.net/course/the-complete-flutter-development-bootcamp-with-dart
+link: <https://mega.nz/folder/3WhSkBjJ#YSDBnDegckd9-xSQ04W0qA/folder/7ChGCDqA>
 
 ## 13: Flutter Mapp
 ### One of the Youtube channels which I find useful during my Flutter journey. They got amazing projects and great videos related to widgets, etc.
