@@ -52,11 +52,11 @@ link: https://youtu.be/InigFUSiPl8
 ### Highly Rated  Flutter Paid Course Ever on Udemy ( Free Clone Here )
 link: <https://mega.nz/folder/3WhSkBjJ#YSDBnDegckd9-xSQ04W0qA/folder/7ChGCDqA>
 
-## 13: Flutter Mapp
+## 14: Flutter Mapp
 ### One of the Youtube channels which I find useful during my Flutter journey. They got amazing projects and great videos related to widgets, etc.
 link: https://www.youtube.com/c/FlutterMapp/videos
 
-## 13: Free Flutter Course + Firebase ( Vandad Nahavandipoor).
+## 15: Free Flutter Course + Firebase ( Vandad Nahavandipoor).
 ### Best Course in Youtube it covers all the topics including state management
 Link: https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT
 
