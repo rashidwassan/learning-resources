@@ -14,3 +14,4 @@ link: [https://whimsical.com/database-roadmap](https://whimsical.com/dbms-roadma
 This is the best github repo to learn system design. If you want to learn through videos I drop a link to backend-youtube.
 
 link: [https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+
