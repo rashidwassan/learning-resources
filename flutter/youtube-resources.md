@@ -77,6 +77,7 @@ link: https://youtu.be/InigFUSiPl8
 ### Highly Rated Flutter Paid Course Ever on Udemy ( Free Clone Here )
 
 link: https://hidevs.net/course/the-complete-flutter-development-bootcamp-with-dart
+link: <https://mega.nz/folder/3WhSkBjJ#YSDBnDegckd9-xSQ04W0qA/folder/7ChGCDqA>
 
 ## 14: Flutter Mapp
 
@@ -95,3 +96,9 @@ Link: https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT
 ### Best Course in Urdu/Hindi from basic to advance level (Dart + Flutter ) Covered
 
 Link: https://www.youtube.com/playlist?list=PLX97VxArfzkmXeUqUxeKW7XS8oYraH7A5
+
+## 16: Johannes Milke (YouTuber) 
+
+### Covers almost all the widgets of the flutter. 800+ videos to learn flutter from beginner to advance.
+
+Link: https://www.youtube.com/c/JohannesMilke
