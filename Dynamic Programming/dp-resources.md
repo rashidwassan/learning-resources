@@ -11,3 +11,9 @@ link: https://www.youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa
 ## 3: take U forward (C++)
 ### C++ playlist to learn dynamic Programming
 link: https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY
+
+## 4: GeeksforGeeks
+### Playlist with set of problems to learn dp
+link: https://www.youtube.com/playlist?list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm
+
+
