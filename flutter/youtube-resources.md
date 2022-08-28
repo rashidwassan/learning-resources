@@ -102,3 +102,9 @@ Link: https://www.youtube.com/playlist?list=PLX97VxArfzkmXeUqUxeKW7XS8oYraH7A5
 ### Covers almost all the widgets of the flutter. 800+ videos to learn flutter from beginner to advance.
 
 Link: https://www.youtube.com/c/JohannesMilke
+
+## 16: Flutter Bootcamp 2022 By Ayngela yu | Youtube Playlist (Udemy Instructor) 
+
+### Covering all the fundamental concepts for Flutter development, this is the most comprehensive Flutter course available online. Best for absolute beginners.
+
+Link: https://www.youtube.com/playlist?list=PLvs_MVh9gNERExBDv4mwbXu9ac2lNDAnR
