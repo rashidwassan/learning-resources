@@ -16,4 +16,8 @@ link: https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY
 ### Playlist with set of problems to learn dp
 link: https://www.youtube.com/playlist?list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm
 
+## 5: freeCodeCamp.org
+### 5 hour dynamic programming youtube video
+link: https://youtu.be/oBt53YbR9Kk
+
 
