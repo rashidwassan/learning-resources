@@ -52,3 +52,7 @@ link: https://www.youtube.com/c/Telusko/featured
 ### Nishant's channel has a popular diaries series in which different peoples share their placement and interview experiences in FAANG.
 
 link: https://www.youtube.com/c/NishantChahar11
+
+## 10: CrashCourse
+### This channel uploads crash courses on different topics of different categories. Following is the link of the playlist of all the Computer Science related crash courses.
+link: https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo 

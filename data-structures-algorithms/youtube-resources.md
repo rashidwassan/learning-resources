@@ -15,3 +15,7 @@ link: https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ
 ## 4. Code With Harry's Data Structures playlist
 ### This is also one of the best data structures explanations, using C language.
 link: https://www.youtube.com/watch?v=5_5oE5lgrhw&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi
+
+## 5. Michael Sambol
+### If you want to revise your DSA concepts in short videos, then this channel will be best for you. This channel is completely dedicated to DSA concepts.
+link: https://www.youtube.com/c/MichaelSambol

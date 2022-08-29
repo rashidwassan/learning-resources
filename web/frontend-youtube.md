@@ -24,6 +24,10 @@ In this video, you'll learn how to create beautiful websites using Html. HTML is
 
 Link: [https://youtu.be/BsDoLVMnmZs) 
 
+### 5. DarkCode
+
+If you want to learn HTML and CSS animations, then this channel will fulfill your need. This channel is based on CSS animations and effects. 
+Link: [https://www.youtube.com/c/DarkCodeOnline/]
 
 ## JavaScript
 
@@ -68,4 +72,3 @@ Link: [https://www.youtube.com/codeevalution/react](https://www.youtube.com/watc
 [traversy media](https://www.youtube.com/c/TraversyMedia) and [freeCodeCamp](https://www.youtube.com/c/Freecodecamp)
 
 > ⚠ Note: There is no need to watch each video. Just pick the one course which suits you most.
-
