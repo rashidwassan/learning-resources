@@ -97,14 +97,20 @@ Link: https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT
 
 Link: https://www.youtube.com/playlist?list=PLX97VxArfzkmXeUqUxeKW7XS8oYraH7A5
 
-## 16: Johannes Milke (YouTuber) 
+## 17: Johannes Milke (YouTuber) 
 
 ### Covers almost all the widgets of the flutter. 800+ videos to learn flutter from beginner to advance.
 
 Link: https://www.youtube.com/c/JohannesMilke
 
-## 16: Flutter Bootcamp 2022 By Ayngela yu | Youtube Playlist (Udemy Instructor) 
+## 18: Flutter Bootcamp 2022 By Ayngela yu | Youtube Playlist (Udemy Instructor) 
 
 ### Covering all the fundamental concepts for Flutter development, this is the most comprehensive Flutter course available online. Best for absolute beginners.
 
 Link: https://www.youtube.com/playlist?list=PLvs_MVh9gNERExBDv4mwbXu9ac2lNDAnR
+
+## 19:  Flutter & Dart - The Complete Guide [2022 Edition] (MEGA Link)
+
+### A Complete Guide to the Flutter SDK & Flutter Framework for building native iOS and Android apps
+
+Link: https://mega.nz/folder/Tc1A2ZDC#QLoifz8jFGUwtGQ37qftEQ
