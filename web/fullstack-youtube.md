@@ -22,3 +22,9 @@ JavaScript Mastery: [Build and Deploy THE PERFECT Portfolio Website | Create a P
 ### **Projects for Beginners**
 
 Clever Programmer: [Build Coinbase Blockchain Web 3.0 App with Next.js | Sanity.io | thirdweb](https://youtu.be/frCsGK4cKks)
+
+## The Complete 2022 Web Development Bootcamp
+
+### Course By Ayngela YU (MEGA Link)
+
+Link: https://mega.nz/folder/Zq5miKQI#rdXFJRvgAAHvBLbe0EBPeQ
