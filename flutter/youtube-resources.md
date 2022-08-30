@@ -114,3 +114,9 @@ Link: https://www.youtube.com/playlist?list=PLvs_MVh9gNERExBDv4mwbXu9ac2lNDAnR
 ### A Complete Guide to the Flutter SDK & Flutter Framework for building native iOS and Android apps
 
 Link: https://mega.nz/folder/Tc1A2ZDC#QLoifz8jFGUwtGQ37qftEQ
+
+## 20: The tech brothers - Flutter / Firebase / Different architectures
+
+### These guys have done great efforts in making helpful videos on Flutter , firebase, mvvm architecture, state management etc.
+
+link: https://www.youtube.com/c/TheTechBrothers1/playlists
