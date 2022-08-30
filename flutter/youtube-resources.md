@@ -114,3 +114,9 @@ Link: https://www.youtube.com/playlist?list=PLvs_MVh9gNERExBDv4mwbXu9ac2lNDAnR
 ### A Complete Guide to the Flutter SDK & Flutter Framework for building native iOS and Android apps
 
 Link: https://mega.nz/folder/Tc1A2ZDC#QLoifz8jFGUwtGQ37qftEQ
+
+## 20:  The Net Ninja Flutter Course (Youtube Playlist)
+
+### Flutter Tutorial for Beginners is one of the best YouTube playlists for anyone who wants to start learning Flutter.
+
+Link: https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ
