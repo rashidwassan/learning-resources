@@ -3,6 +3,9 @@ React (also known as React.js or ReactJS) is a free and open-source front-end Ja
 React Documentation page : https://reactjs.org/docs/getting-started.html
 React repository link    : https://github.com/facebook/react
 
+Also apart from these there is another website from react team that has underlying concepts of how things are working, It's their beta website, which link is given here : https://beta.reactjs.org
+This website is still under **development** by react team but it has some core concepts which no other website can provide you.
+
 
 React learning courses on Youtube
 from scretch to master with 8 projects  link :  https://www.youtube.com/watch?v=bMknfKXIFA8&t=6s

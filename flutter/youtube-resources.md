@@ -120,3 +120,9 @@ Link: https://mega.nz/folder/Tc1A2ZDC#QLoifz8jFGUwtGQ37qftEQ
 ### Flutter Tutorial for Beginners is one of the best YouTube playlists for anyone who wants to start learning Flutter.
 
 Link: https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ
+
+## 21: The tech brothers - Flutter / Firebase / Different architectures
+
+### These guys have done great efforts in making helpful videos on Flutter , firebase, mvvm architecture, state management etc.
+
+link: https://www.youtube.com/c/TheTechBrothers1/playlists
