@@ -115,7 +115,13 @@ Link: https://www.youtube.com/playlist?list=PLvs_MVh9gNERExBDv4mwbXu9ac2lNDAnR
 
 Link: https://mega.nz/folder/Tc1A2ZDC#QLoifz8jFGUwtGQ37qftEQ
 
-## 20: The tech brothers - Flutter / Firebase / Different architectures
+## 20:  The Net Ninja Flutter Course (Youtube Playlist)
+
+### Flutter Tutorial for Beginners is one of the best YouTube playlists for anyone who wants to start learning Flutter.
+
+Link: https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ
+
+## 21: The tech brothers - Flutter / Firebase / Different architectures
 
 ### These guys have done great efforts in making helpful videos on Flutter , firebase, mvvm architecture, state management etc.
 
