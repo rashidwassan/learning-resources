@@ -20,4 +20,8 @@ link: https://www.youtube.com/playlist?list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm
 ### 5 hour dynamic programming youtube video
 link: https://youtu.be/oBt53YbR9Kk
 
+## 6: Luv
+### This guy is luv ;), he has some great videos on dynamic programming.
+link: https://www.youtube.com/watch?v=xeeo6nhq9IY&list=PLauivoElc3gimdmLcIIpafEkzGs4tCQmi
+
 
