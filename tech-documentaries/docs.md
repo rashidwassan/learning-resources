@@ -9,3 +9,6 @@ link: https://youtu.be/taZJblMAuko
 ## 2: The Great Hack
 ### The Great Hack is a 2019 documentary film about the Facebook–Cambridge Analytica data distribution scandal, available on Netflix
 link: https://www.netflix.com/pk/title/80117542?source=35
+
+## #3: Top 10 tech documentaries
+link: https://www.berkeleypr.com/the-10-top-documentaries-to-expand-your-tech-knowledge/
