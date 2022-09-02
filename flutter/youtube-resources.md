@@ -132,3 +132,9 @@ link: https://www.youtube.com/c/TheTechBrothers1/playlists
 ### Andrea is Google Developer Expert for Dart & Flutter.He makes tutorial which is clear, concise, and based on real-world examples.
 
 link: https://www.youtube.com/c/CodeWithAndrea
+
+## 23: Easy Approach
+
+### Easy Approach channel is run by Maaz Aftab, he is Expert for Dart & Flutter.He makes tutorials on flutter, state management, firebase and on tricky topics of flutter.
+
+link: https://www.youtube.com/c/EasyApproach/featured
