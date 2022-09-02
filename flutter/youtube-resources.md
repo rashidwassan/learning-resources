@@ -132,3 +132,9 @@ link: https://www.youtube.com/c/TheTechBrothers1/playlists
 ### Andrea is Google Developer Expert for Dart & Flutter.He makes tutorial which is clear, concise, and based on real-world examples.
 
 link: https://www.youtube.com/c/CodeWithAndrea
+
+## 23: Learn App Code
+
+### Learn App Code is a youtube channel by Haris Samingan who teaches flutter by creating clone of famous apps.
+
+link: https://www.youtube.com/c/LearnFlutterCode
