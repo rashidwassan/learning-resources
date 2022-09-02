@@ -27,3 +27,7 @@ link: https://www.javatpoint.com/
 ## 6: hackr.io
 ### hackr.io contains many free and paid courses on different programming languages & technologies, in video and books
 link: https://hackr.io/
+
+## 7: SQL
+### It is a website that contains a lot of SQL Tasks
+link: https://sqlbolt.com/
