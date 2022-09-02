@@ -133,7 +133,13 @@ link: https://www.youtube.com/c/TheTechBrothers1/playlists
 
 link: https://www.youtube.com/c/CodeWithAndrea
 
-## 23: Easy Approach
+## 23: Learn App Code
+
+### Learn App Code is a youtube channel by Haris Samingan who teaches flutter by creating clone of famous apps.
+
+link: https://www.youtube.com/c/LearnFlutterCode
+
+## 24: Easy Approach
 
 ### Easy Approach channel is run by Maaz Aftab, he is Expert for Dart & Flutter.He makes tutorials on flutter, state management, firebase and on tricky topics of flutter.
 
