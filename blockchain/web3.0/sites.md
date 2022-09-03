@@ -5,3 +5,6 @@ link: https://www.web3.university/
 
 ## 2: How To Web 3
 link: https://www.howtoweb3.guide/
+
+## 3: Speed Run Ethereum
+link: https://speedrunethereum.com/
