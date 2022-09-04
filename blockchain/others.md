@@ -17,3 +17,6 @@ link: https://metaschool.so/
 ### Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition
 
 link: https://github.com/smartcontractkit/full-blockchain-solidity-course-py
+
+## 4: Ethernaut
+link: https://ethernaut.openzeppelin.com/
