@@ -73,7 +73,6 @@ Link: [https://www.youtube.com/codeevalution/react](https://www.youtube.com/watc
 
 ### SVG, PNG, and Font icons library for designing
 
-|---|---|
 | [How to work with SVG icons](https://fvsch.com/code/svg-icons/how-to/) | - |
 | [Align SVG Icons to Text and Say Goodbye to Font Icons](https://blog.prototypr.io/align-svg-icons-to-text-and-say-goodbye-to-font-icons-d44b3d7b26b4) | - |
 | - | - |
