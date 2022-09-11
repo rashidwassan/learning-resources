@@ -71,4 +71,31 @@ Link: [https://www.youtube.com/codeevalution/react](https://www.youtube.com/watc
 ### Other React Channels:
 [traversy media](https://www.youtube.com/c/TraversyMedia) and [freeCodeCamp](https://www.youtube.com/c/Freecodecamp)
 
+### SVG, PNG, and Font icons library for designing
+
+| [How to work with SVG icons](https://fvsch.com/code/svg-icons/how-to/) | - |
+| [Align SVG Icons to Text and Say Goodbye to Font Icons](https://blog.prototypr.io/align-svg-icons-to-text-and-say-goodbye-to-font-icons-d44b3d7b26b4) | - |
+| - | - |
+| [Bootstrap Icons](https://icons.getbootstrap.com/) | Bootstrap Icons are SVGs, so they scale quickly and easily and can be styled with CSS. While they're built for Bootstrap, they'll work in any project. |
+| [Creative Commons license icons](https://creativecommons.org/about/downloads/) | Download SVG, EPS, and PNG Creative Commons license icons to use in your site. |
+| [Flaticon](http://www.flaticon.com/) | The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats. |
+| [Feather](https://feathericons.com/) | Feather is a collection of simply beautiful open source icons. |
+| [Font Awesome](http://fontawesome.io/) | The iconic font and CSS toolkit. |
+| [Font-Awesome-SVG-PNG](https://github.com/encharm/Font-Awesome-SVG-PNG) | Font Awesome split to individual SVG and PNG files of different sizes along with Node.JS based generator. |
+| [FontForge](https://fontforge.github.io/en-US/) | A free and open source font editor brought to you by a community of fellow type lovers. |
+| [Fontello](http://fontello.com/) | An easy way to create a custom icon font for your site. Select images from our large collection, and make a webfont pack with one click. |
+| [IcoMoon](https://icomoon.io/) | IcoMoon provides a package of vector icons, along with a free HTML5 app for making custom icon fonts or SVG sprites. Browse among thousands of pixel perfect icons or import your own vectors. |
+| [Ionicons](http://ionicons.com/) | The premium icon font for [Ionic Framework](http://ionicframework.com/). |
+| [Material Design Icons](https://materialdesignicons.com/) | View all the Material Design icons and more from the community. |
+| [The Big List of Flat Icons & Icon Fonts](https://css-tricks.com/flat-icons-icon-fonts/) by CSS-Triks | There are many such roundups. This one is mine. |
+| [Noun Project - Icons for everything](https://thenounproject.com/) | Nearly a million curated icons, created by a global community. |
+| [Octicons](https://octicons.github.com/) | A scalable icon font handcrafted with &lt;3 by GitHub. |
+| [Perfect Icons](http://perfecticons.com/) | The easiest way to create resolution independent social icons. |
+| [Simple Icons](https://simpleicons.org/) | Free SVG icons for popular brands. |
+| [svg-icon](https://leungwensen.github.io/svg-icon/) | An ultimate SVG icons collection DONE RIGHT. |
+| [SVG Icons](http://svgicons.sparkk.fr/) | Ready to use SVG icons for the web. |
+| [Vector Icons Roundup](https://tagliala.github.io/vectoriconsroundup/) | A side-by-side comparison between popular icon fonts. |
+| [We Love Icon Fonts](http://weloveiconfonts.com/) | A free & open source icon fonts hosting service for testing purposes. |
+
 > ⚠ Note: There is no need to watch each video. Just pick the one course which suits you most.
+
