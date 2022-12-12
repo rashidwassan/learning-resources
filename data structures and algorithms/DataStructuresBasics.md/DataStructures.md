@@ -4,3 +4,7 @@
 ```
 https://github.com/shahzaneer/Data-Structures-and-Algorithms
 ```
+
+- Below are the handwritten notes of Java from [Kunal Kushwaha Course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) 
+
+Here is the Link to Repository:- https://github.com/artimanputra/DSA-Notes  
