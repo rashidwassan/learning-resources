@@ -74,3 +74,6 @@ Best Websites to learn Devops:
 https://kodekloud.com
 https://acloudguru.com
 https://www.katacoda.com
+
+16. DevOps Prerequisites (Video)
+* https://youtu.be/Wvf0mBNGjXY
