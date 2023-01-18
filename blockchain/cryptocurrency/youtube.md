@@ -1,5 +1,5 @@
 ## 1: Whiteboard Crypto
-### One of best & conveninet YouTube channel for learning crypto things.
+### One of best & convenient YouTube channel for learning crypto things.
 link: https://www.youtube.com/c/WhiteboardCrypto
 
 
