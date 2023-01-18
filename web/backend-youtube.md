@@ -33,3 +33,13 @@ Link:[https://www.youtube.com/c/CodeWithDary](https://www.youtube.com/c/CodeWith
 Once you learn how to develop backends and also familiar backend concepts the next thing is **think big** like how to develop/design such systems/backend that can handle millions of users simultaneously. Here the system design comes in e.g which kind of architecture you choose for your system, how you design database etc, and this channel is a gold mine of system design and computer science content. 
 
 link: [https://www.youtube.com/c/GauravSensei](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+
+## 8 Code Step By Step
+Another Useful Resource for Laravel 9.
+
+link: [https://www.youtube.com/@codestepbystep](https://www.youtube.com/playlist?list=PL8p2I9GklV45jJzLsexf2_hNNafpCXw9k)
+
+## Mean Stack
+MEAN stack refers to a collection of JavaScript-based technologies used to develop web applications. It stands for MongoDB, Express.js, AngularJS (or Angular), and Node.js. MongoDB is a NoSQL database, Express.js is a web application framework, AngularJS (or Angular) is a front-end framework, and Node.js is a JavaScript runtime environment. Together, these technologies provide a comprehensive development stack for building web applications using only JavaScript.
+
+link: [https://www.youtube.com/@Codevolution](https://www.youtube.com/watch?v=vLvNr3Wa5YI&list=PLC3y8-rFHvwj200LLotCYum_9wmGeTJx9&ab_channel=Codevolution)
