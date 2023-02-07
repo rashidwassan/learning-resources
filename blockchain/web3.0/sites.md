@@ -14,3 +14,15 @@ link: https://buildspace.so/solidity?utm_source=google&utm_campaign=web3-camp-tw
 
 ## 5: Alchemy University
 link: https://university.alchemy.com/
+
+## 6: 30 Days of Web3
+link: https://www.30daysofweb3.xyz/
+
+## 7: Learn Web3
+link: https://learnweb3.io/
+
+## 8: Odysseydao
+link: https://www.odysseydao.com/
+
+## 9: Metaschool
+link: https://metaschool.so/
