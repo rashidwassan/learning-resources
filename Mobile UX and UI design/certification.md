@@ -9,3 +9,10 @@ link: https://www.coursera.org/professional-certificates/google-ux-design?utm_so
 ### Tutorials for understanding UI Design
 
 link: https://www.youtube.com/playlist?list=PLuRPummNMvIN43IBo1EltezV2ngqYz5T6
+
+
+## 3: Figma Tutorials Playlist
+
+### Tutorials to learn popular design tool: Figma, and practice UI Design along the way
+
+link: https://youtube.com/playlist?list=PLvnhVb8yYRQ3TDOsSgN0pf0XqG6E56IYM
